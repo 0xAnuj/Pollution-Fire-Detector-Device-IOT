@@ -1,6 +1,6 @@
 
-# Pollution Dectector Device - IOT Project
-Pollution/Fire Detector Device IOT : Device is sensitive enough to detect smog and smoke. It can easily detect denser air . It also show room AQI
+# Pollution Dectector Device 
+Pollution/Fire Detector Device  : Device is sensitive enough to detect smog and smoke. It can easily detect denser air . It also show room AQI
 
 ![](https://raw.githubusercontent.com/0xAnuj/Pollution-Fire-Detector-Device-IOT/main/Images/cover.jpg)
 
